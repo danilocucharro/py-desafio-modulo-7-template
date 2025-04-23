@@ -30,4 +30,3 @@ class TaskHandler:
 
     def send_report():
         pass
-

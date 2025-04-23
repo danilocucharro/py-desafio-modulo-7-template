@@ -41,5 +41,3 @@ exame_sangue = Exame("sangue")
 exame_raio_x = Exame("raio-x")
 
 aprovador = AprovaExame()
-
-
